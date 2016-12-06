@@ -1,11 +1,12 @@
 # depslib dependency file v1.0
-1481010026 source:d:\penting kuliah\sem 5\grafkom\fp\main.cpp
+1481030628 source:d:\penting kuliah\sem 5\grafkom\fp\main.cpp
 	<gl/Gl.h>
 	<gl/Glu.h>
 	<gl/glut.h>
 	<math.h>
 	"glm.h"
-	<stdio.h>
+	"glmint.h"
+	"glTexture.h"
 
 1480947730 d:\penting kuliah\sem 5\grafkom\fp\reader.h
 
@@ -27,10 +28,17 @@
 	<GLUT/glut.h>
 	<GL/glut.h>
 
-1481010132 source:d:\penting kuliah\sem 5\grafkom\fp\main.c
+1481031176 source:d:\penting kuliah\sem 5\grafkom\fp\main.c
 	<gl/Gl.h>
 	<gl/Glu.h>
 	<gl/glut.h>
 	<math.h>
 	"glm.h"
+
+1451082058 d:\penting kuliah\sem 5\grafkom\fp\glmint.h
+
+1451082058 d:\penting kuliah\sem 5\grafkom\fp\gltexture.h
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
 
