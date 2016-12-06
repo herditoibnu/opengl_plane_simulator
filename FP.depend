@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1481010026 source:d:\penting kuliah\sem 5\grafkom\fp\main.cpp
+	<gl/Gl.h>
+	<gl/Glu.h>
+	<gl/glut.h>
+	<math.h>
+	"glm.h"
+	<stdio.h>
+
+1480947730 d:\penting kuliah\sem 5\grafkom\fp\reader.h
+
+1480947832 source:d:\penting kuliah\sem 5\grafkom\fp\reader.cpp
+	<GL/glut.h>
+	<fstream>
+	<stdlib.h>
+	"reader.h"
+
+1449042334 source:d:\penting kuliah\sem 5\grafkom\fp\glm.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1449042336 d:\penting kuliah\sem 5\grafkom\fp\glm.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1481010132 source:d:\penting kuliah\sem 5\grafkom\fp\main.c
+	<gl/Gl.h>
+	<gl/Glu.h>
+	<gl/glut.h>
+	<math.h>
+	"glm.h"
+
